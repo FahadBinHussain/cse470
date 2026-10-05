@@ -25,7 +25,7 @@ A high-performance full-stack task and project management web application built 
 
 ### 2. Setup Environment Variables
 
-Copy the example configuration to `.env.local` (env files are vault-restored via `automata\tools\env-sync.ps1`):
+Copy the example configuration to `.env.local` (env files are vault-restored via `automata-private\bitwarden.com\env-sync.ps1`):
 
 ```bash
 cp .env.example .env.local
