@@ -70,7 +70,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser.
 ## 📂 Project Structure
 
 ```
-taskflow/
+cse470/
 ├── src/
 │   ├── app/                    # Next.js App Router (React components & API Routes)
 │   │   ├── (dashboard)/        # Authenticated workspace pages (Dashboard, Tasks, Projects, Admin)
